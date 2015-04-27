@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c61986df5213a6535e5a48a460661172:71d3ef4a81283d09f50490853cb3cd07:eafa5ef8de56cc89d559119e693a842f$ -->
+<TextureAtlas imagePath="bubbleAtlas.png">
+    <SubTexture name="back" x="429" y="2" width="600" height="450"/>
+    <SubTexture name="bomb1" x="64" y="2" width="60" height="60"/>
+    <SubTexture name="bomb2" x="2" y="2" width="60" height="60"/>
+    <SubTexture name="font" x="604" y="454" width="445" height="512"/>
+    <SubTexture name="playDown" x="227" y="2" width="99" height="98"/>
+    <SubTexture name="playOver" x="328" y="2" width="99" height="98"/>
+    <SubTexture name="playUp" x="126" y="2" width="99" height="98"/>
+    <SubTexture name="startBack" x="2" y="454" width="600" height="451"/>
+</TextureAtlas>
